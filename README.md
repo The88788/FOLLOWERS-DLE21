@@ -57,7 +57,7 @@
 
 Адаптация под DLE 21.0: [The88788.com](https://the88788.com/). Исходные уведомления и копирайты в файлах шаблона сохранены.
 
-- [Услуги по установке и доработке DLE](https://the88788.com/prices/sites/dle/)
+- [Услуги по доработке DLE](https://the88788.com/prices/sites/dle/)
 - [Связаться в Telegram](https://t.me/The88788)
 
 ## VPS-хостинг
